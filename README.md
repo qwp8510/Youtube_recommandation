@@ -13,7 +13,7 @@
 ![visualization](https://github.com/qwp8510/Youtube_recommandation/blob/master/read_img/1569824781782.jpg)  
   
 # 自行建立Database
-可以從crawling中找到我爬取youtube資料的py檔，我是先將想抓取的youtuber(台灣前百大)先放進txt檔之後讀取。  
+可以從crawling中找到我爬取youtube資料的py檔，我是先將想抓取的youtuber(台灣前百大)網址先放進txt檔之後讀取。  
   
    
 ## 發展方向
